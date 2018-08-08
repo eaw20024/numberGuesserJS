@@ -1,1 +1,1 @@
-# numGuesser_JS
+# numberGuesserJS
